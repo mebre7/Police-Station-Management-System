@@ -1,9 +1,3 @@
----
-
-## 2. The `LICENSE` File
-It is best to use the **MIT License**. It’s short and widely recognized. Create a file named `LICENSE` (no extension) and paste this:
-
-```text
 MIT License
 
 Copyright (c) 2026 Mebratu Cheka
